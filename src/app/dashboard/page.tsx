@@ -60,7 +60,7 @@ export default function DashboardPage() {
           <div className="flex justify-between h-16">
             <div className="flex items-center">
               <h1 className="text-xl font-bold bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent">
-                アンチコメント返信生成AI
+                アンチコメント返信生成AI : ミレプ
               </h1>
             </div>
             <div className="flex items-center">
