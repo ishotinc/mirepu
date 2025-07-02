@@ -10,12 +10,30 @@ export default function Footer() {
               © 2025 ビューティーレビューアプリ. All rights reserved.
             </p>
           </div>
-          <div className="flex space-x-6">
+          <div className="flex flex-wrap gap-x-6 gap-y-2 justify-center md:justify-end">
+            <Link 
+              href="/terms-of-service" 
+              className="text-gray-600 hover:text-gray-900 text-sm transition-colors"
+            >
+              利用規約
+            </Link>
             <Link 
               href="/privacy-policy" 
               className="text-gray-600 hover:text-gray-900 text-sm transition-colors"
             >
               プライバシーポリシー
+            </Link>
+            <Link 
+              href="/commercial-transaction-act" 
+              className="text-gray-600 hover:text-gray-900 text-sm transition-colors"
+            >
+              特定商取引法に基づく表記
+            </Link>
+            <Link 
+              href="/disclaimer" 
+              className="text-gray-600 hover:text-gray-900 text-sm transition-colors"
+            >
+              免責事項
             </Link>
           </div>
         </div>
