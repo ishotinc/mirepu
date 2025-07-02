@@ -47,9 +47,9 @@ export default function Home() {
                 <div className="w-20 h-20 bg-gradient-to-br from-purple-500 to-purple-700 rounded-full flex items-center justify-center mx-auto mb-6 text-white">
                   <span className="text-3xl">⚖️</span>
                 </div>
-                <h3 className="text-2xl font-bold mb-4 text-gray-900">薬機法リスクを回避</h3>
+                <h3 className="text-2xl font-bold mb-4 text-gray-900">時間を節約</h3>
                 <p className="text-gray-600 leading-relaxed">
-                  医療広告ガイドラインに違反する表現を自動検出。法的リスクを完全に排除した安全な返信を生成します。
+                返信を考える時間を大幅に削減。 数秒で適切な返信を生成します。
                 </p>
               </div>
               
@@ -58,9 +58,9 @@ export default function Home() {
                 <div className="w-20 h-20 bg-gradient-to-br from-pink-500 to-pink-700 rounded-full flex items-center justify-center mx-auto mb-6 text-white">
                   <span className="text-3xl">🔥</span>
                 </div>
-                <h3 className="text-2xl font-bold mb-4 text-gray-900">炎上を未然に防止</h3>
+                <h3 className="text-2xl font-bold mb-4 text-gray-900">感情的にならない</h3>
                 <p className="text-gray-600 leading-relaxed">
-                  美容医療特有の繊細な患者心理を理解。不適切な対応による二次被害やSNS拡散を防ぎます。
+                AIが冷静で建設的な返信を作成。 ブランドイメージを守ります。
                 </p>
               </div>
               
@@ -69,9 +69,9 @@ export default function Home() {
                 <div className="w-20 h-20 bg-gradient-to-br from-purple-500 to-pink-600 rounded-full flex items-center justify-center mx-auto mb-6 text-white">
                   <span className="text-3xl">🩺</span>
                 </div>
-                <h3 className="text-2xl font-bold mb-4 text-gray-900">専門性に特化した対応</h3>
+                <h3 className="text-2xl font-bold mb-4 text-gray-900">プロフェッショナル</h3>
                 <p className="text-gray-600 leading-relaxed">
-                  施術内容、ダウンタイム、副作用など美容医療の専門知識を活用した信頼性の高い返信を作成。
+                ビジネスに適した丁寧で プロフェッショナルな文章を生成。
                 </p>
               </div>
             </div>
